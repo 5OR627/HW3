@@ -127,3 +127,4 @@ text = input('Введите текст с маленькой буквы: ')
 words = text.split()
 for el in words:
     print(int_func(el), end=' ')
+    """"""
